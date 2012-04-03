@@ -2,3 +2,12 @@ to no master
 
 branch feature/linha
 adicionando esta linha
+
+branch release
+release sem nada
+
+branch dev
+mais essa linha
+
+release 2
+mais linha
